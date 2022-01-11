@@ -6,7 +6,7 @@ which was made as a teaching materials for lecture and Workshops of Google Devel
 
 ## Table of Contents
 - Basic data types (int, float, boolean, string)
-- data structures (Lists, Dictionaries, Sets, Tuples)
+- Data structures (Lists, Dictionaries, Sets, Tuples)
 - Operations (if-else, Loop)
 - Functions
 - Classes

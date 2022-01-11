@@ -9,5 +9,5 @@ which was made as a teaching materials for lecture and Workshops of Google Devel
 - data structures (Lists, Dictionaries, Sets, Tuples)
 - Operations (if-else, Loop)
 - Functions
-- classes
+- Classes
 - Exercises (easy, medium, hard)
